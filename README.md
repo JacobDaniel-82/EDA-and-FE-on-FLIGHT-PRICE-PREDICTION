@@ -44,11 +44,11 @@ This project involves EDA and FE on a flight price dataset to understand pattern
 ## **How to Explore This Repository**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Exploratory_Data_Analysis_FE.git
+   git clone https://github.com/<your-username>/EDA_and_FE_Collection.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd Exploratory_Data_Analysis_FE
+   cd EDA_and_FE_Collection
    ```
 3. Open the notebook file using Jupyter Notebook or any Python IDE:
    - File: `2.0-EDA_And_FE_Flight_Price.ipynb`
